@@ -1,4 +1,2 @@
 new changing
 
-
-new changing from branch newtest 
